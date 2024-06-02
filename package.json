@@ -1,0 +1,16 @@
+{
+  "name": "api-service",
+  "version": "1.0.0",
+  "description": "API service for your application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abhinav Jain",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "dotenv": "^10.0.0"
+  }
+}
