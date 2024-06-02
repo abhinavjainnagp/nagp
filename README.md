@@ -1,5 +1,5 @@
 # nagp
-Also include a README.md file in code which has:
+
 •Link for the code repository: https://github.com/abhinavjainnagp/nagp
 •Docker hub URL for docker images: https://hub.docker.com/repository/docker/abhinavjainnagpdocker/api-service/general
 •URL for Service API tier to view the records from backend tier: http://35.247.173.150:8080/
